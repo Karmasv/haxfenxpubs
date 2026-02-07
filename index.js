@@ -1,8 +1,3 @@
-/* eslint-disable no-console */
-
-// ==================================================
-// HaxFenx x4 [beta] - Headless Haxball (Single File)
-// ==================================================
 
 // ----------------------
 // CONFIGURACION GENERAL
